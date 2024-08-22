@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<width>5671</width>
+<height>7383</height>
+<nclasslabel>6</nclasslabel>
+<nclassappear>6</nclassappear>
+<class>Door</class>
+<class>Parking</class>
+<class>Room</class>
+<class>Separation</class>
+<class>Wall</class>
+<class>Window</class>
+<polygon class="Wall" fill="#AFD8F8" id="65" transcription="" points="4141,2150.8125 4205,2151.4375 4205,2212.4375 4195,2214.4375 4193,2225.4375 4153,2225.4375 4153,2214.1875 4141,2213.1875 " />
+<polygon class="Wall" fill="#AFD8F8" id="67" transcription="" points="3693,2151 3732,2151 3732,5664 3693,5665 " />
+<polygon class="Wall" fill="#AFD8F8" id="68" transcription="" points="3729.5,5588.5 3851,5589.5 3851,5663.5 3728.5,5665.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="69" transcription="" points="4487,5247 4503,5247 4505,5591 4487,5591 " />
+<polygon class="Wall" fill="#AFD8F8" id="70" transcription="" points="5111.5,2153 5150.5,2153 5150.5,5827 5110,5828 " />
+<polygon class="Wall" fill="#AFD8F8" id="71" transcription="" points="4815,5826 5150,5826 5150,5900 4816,5901 " />
+<polygon class="Wall" fill="#AFD8F8" id="72" transcription="" points="4322,5590.5 4506,5590.5 4506,5663.5 4322,5663.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="73" transcription="" points="5100,4876.5 5114,4876.5 5114,4893.5 5100,4893.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="74" transcription="" points="4487,4876.5 4909,4876.5 4909,4894 4488,4895 " />
+<polygon class="Wall" fill="#AFD8F8" id="75" transcription="" points="4488,4892 4505,4892 4504,5058 4488,5058 " />
+<polygon class="Wall" fill="#AFD8F8" id="76" transcription="" points="4625,4451 4665,4450 4665,4525 4625,4525 " />
+<polygon class="Wall" fill="#AFD8F8" id="77" transcription="" points="4638,4522.75 4653,4522 4654,4877 4638,4877.25 " />
+<polygon class="Wall" fill="#AFD8F8" id="78" transcription="" points="4804,4451.5 5112,4451.5 5112,4524.5 4804,4524.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="79" transcription="" points="4425.5,4451.5 4487.5,4451.5 4487.5,4524.5 4424.5,4524.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="80" transcription="" points="4087.5,4510.5 4425.5,4510.5 4425.5,4524.5 4086.5,4525.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="81" transcription="" points="4073.75,4368 4074.25,4523 4090.25,4523 4090.25,4368 " />
+<polygon class="Wall" fill="#AFD8F8" id="82" transcription="" points="3967.5,4332 4426.5,4331 4427.5,4372 3968.5,4372 " />
+<polygon class="Wall" fill="#AFD8F8" id="84" transcription="" points="3729,4332 3754,4332 3754,4370 3729,4370 " />
+<polygon class="Wall" fill="#AFD8F8" id="85" transcription="" points="4011.5,3943 4559,3942 4562,3955 4568,3958 4571,3982 4012.5,3983 " />
+<polygon class="Wall" fill="#AFD8F8" id="88" transcription="" points="4425.5,3980 4463.5,3980 4464.5,4451 4426.5,4452 " />
+<polygon class="Wall" fill="#AFD8F8" id="90" transcription="" points="5073,3749.5 5112,3749.5 5112,3676.5 5073,3676.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="91" transcription="" points="4718,3451 4753,3451 4753,3830 4720,3830 " />
+<polygon class="Wall" fill="#AFD8F8" id="92" transcription="" points="4752,3675.5 4791,3675.5 4791,3748.5 4752,3748.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="94" transcription="" points="4488.5,3114.5 4910.5,3114.5 4910.5,3131.5 4489.5,3131.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="95" transcription="" points="4734.5,3129.25 4751.5,3129.75 4754,3412 4735.5,3412.75 " />
+<polygon class="Wall" fill="#AFD8F8" id="96" transcription="" points="4627.5,3131 4627.5,3413 4645.5,3415 4644.5,3131 " />
+<polygon class="Wall" fill="#AFD8F8" id="98" transcription="" points="3729.5,2150.5 3932.5,2150.5 3934.5,2213.5 3920,2212 3921.5,2227.5 3730.5,2227.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="99" transcription="" points="4495,2151 5112,2152 5112,2228 4509,2228 4508,2211.5 4495,2212 " />
+<polygon class="Window" fill="#F6BD0F" id="100" transcription="" points="3929,2150 4145.5,2148.5 4144.5,2225.5 3929,2226 " />
+<polygon class="Window" fill="#F6BD0F" id="101" transcription="" points="4201,2147.5 4497,2147 4499,2226 4201,2224.5 " />
+<polygon class="Window" fill="#F6BD0F" id="104" transcription="" points="3848,5590 4321,5590 4321,5668 3846,5668 " />
+<polygon class="Window" fill="#F6BD0F" id="105" transcription="" points="4427,5664 4505,5664 4504,5827 4818,5827 4818,5905 4427,5906 " />
+<polygon class="Door" fill="#8BBA00" id="116" transcription="" points="4493.5,5058 4689.5,5056 4669.5,5157 4589.5,5218 4496.5,5248 " />
+<polygon class="Door" fill="#8BBA00" id="117" transcription="" points="5107,4702 5105,4892 4915,4892 4926,4808 4995,4716 " />
+<polygon class="Window" fill="#F6BD0F" id="118" transcription="" points="4485,4448.5 4629,4447.5 4629,4524.5 4485,4525.5 " />
+<polygon class="Window" fill="#F6BD0F" id="119" transcription="" points="4662,4447 4805,4448 4805,4525 4662,4525 " />
+<polygon class="Window" fill="#F6BD0F" id="120" transcription="" points="4791,3677.5 5075,3677.5 5075,3754.5 4789,3754.5 " />
+<polygon class="Window" fill="#F6BD0F" id="122" transcription="" points="4569,3943 4719.5,3943.5 4719.5,3824.5 4757.5,3824.5 4757,3986 4568,3987 " />
+<polygon class="Door" fill="#8BBA00" id="123" transcription="" points="4904.5,3114.5 5099.5,3113.5 5098.5,3308.5 4988.5,3294.5 4927.5,3219.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="124" transcription="" points="5100.5,3115 5100.5,3131 5111.5,3131 5111.5,3115 " />
+<polygon class="Wall" fill="#AFD8F8" id="126" transcription="" points="3729,3659.5 3755,3659.5 3755,3679 3755,3698.5 3729,3698.5 " />
+<polygon class="Door" fill="#8BBA00" id="127" transcription="" points="3741.5,3456.5 3741.5,3680.5 3968.5,3679.5 3959.5,3584.5 3858.5,3459.5 " />
+<polygon class="Door" fill="#8BBA00" id="128" transcription="" points="3751,4345 3973,4345 3965,4468 3867,4570 3737,4577 " />
+<polygon class="Room" fill="#FF8E46" id="133" transcription="" points="3735,4372 4069,4374 4075,4532 4638,4526 4638,4877 4489,4877 4489,5592 3735,5592 " />
+<polygon class="Room" fill="#FF8E46" id="134" transcription="" points="4654,4519 5112,4519 5112,4871 4654,4871 " />
+<polygon class="Room" fill="#FF8E46" id="135" transcription="" points="4503,4896.5 5109,4896.5 5109,5829.5 4503,5829.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="136" transcription="" points="4886,2675 4903,2688 4902,2886.5 4889,2885 " />
+<polygon class="Wall" fill="#AFD8F8" id="137" transcription="" points="4885.5,2906 4910.5,2906 4909.5,2888 4886.5,2888 " />
+<polygon class="Wall" fill="#AFD8F8" id="138" transcription="" points="5101,2887 5113,2887 5112,2905 5100,2905 " />
+<polygon class="Wall" fill="#AFD8F8" id="139" transcription="" points="4112.5,3412.5 4754.5,3412 4753.5,3451.5 4113.5,3451.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="140" transcription="" points="4074,3411 4113,3411 4113,3699 4073,3699 " />
+<polygon class="Wall" fill="#AFD8F8" id="141" transcription="" points="3968,3659.5 4074,3659.5 4075,3699.5 3968,3698.5 " />
+<polygon class="Room" fill="#FF8E46" id="143" transcription="" points="4758,3135 5113,3135 5113,3681 4758,3681 " />
+<polygon class="Room" fill="#FF8E46" id="144" transcription="" points="3728,3697.5 4007,3697.5 4007,4328.5 3728,4328.5 " />
+<polygon class="Room" fill="#FF8E46" id="145" transcription="" points="3738,3655.5 4078,3656.5 4079,3409.5 4632,3407.5 4632,3127.5 3736,3130.5 " />
+<polygon class="Separation" fill="#008E8E" id="146" transcription="" points="3736,3116 4490,3116 4490,3128 3736,3128 " />
+<polygon class="Room" fill="#FF8E46" id="147" transcription="" points="3737,2230.5 5109,2230.5 5113,3113.5 3737,3113.5 " />
+<polygon class="Door" fill="#8BBA00" id="148" transcription="" points="5104,2712 5101,2906 4914,2904 4916,2826 4994,2724 " />
+<polygon class="Wall" fill="#AFD8F8" id="149" transcription="" points="3259.25,2230.875 3297.75,2231.125 3297.75,3682.125 3258.75,3681.125 " />
+<polygon class="Wall" fill="#AFD8F8" id="150" transcription="" points="2710.5,2157 3299,2158 3299,2231 2711.5,2231 " />
+<polygon class="Wall" fill="#AFD8F8" id="151" transcription="" points="3220,3690.75 3228,3690.75 3228,3679.75 3299,3678.25 3299,3754.25 3220,3755.25 " />
+<polygon class="Wall" fill="#AFD8F8" id="152" transcription="" points="2830.5,3679 2830.5,3820 2841.5,3820 2842,3832 2901,3831 2899.5,3679 " />
+<polygon class="Wall" fill="#AFD8F8" id="153" transcription="" points="2898.5,3676.5 3071.5,3676.5 3071.5,3685.5 3080.5,3685.5 3081.5,3750.5 2897.5,3751.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="154" transcription="" points="2874.25,3424 2901.25,3424 2901.25,3674 2873.75,3676 " />
+<polygon class="Wall" fill="#AFD8F8" id="155" transcription="" points="2884,3115.75 2902,3115.75 2900,3428.75 2882,3428.25 " />
+<polygon class="Wall" fill="#AFD8F8" id="156" transcription="" points="2789,3116.5 2885,3117 2885,3133.5 2791,3133.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="157" transcription="" points="2776.5,3115.75 2776.5,3428.75 2791.5,3428.25 2791.5,3114.25 " />
+<polygon class="Wall" fill="#AFD8F8" id="158" transcription="" points="2791,3413.25 2884,3413.25 2884,3428 2791,3428.75 " />
+<polygon class="Wall" fill="#AFD8F8" id="159" transcription="" points="2504.5,3118 2785,3118 2784,3145 2505.5,3144 " />
+<polygon class="Wall" fill="#AFD8F8" id="160" transcription="" points="2657,3104.5 2675,3104.5 2675,3115.5 2657,3115.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="161" transcription="" points="2476.5,3115.75 2505,3116 2504.5,3546.75 2477.5,3546.25 " />
+<polygon class="Wall" fill="#AFD8F8" id="163" transcription="" points="2455.5,2827.5 2785,2832 2787.5,2906.5 2465.5,2905.5 2468.5,2891.5 2458.5,2890.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="164" transcription="" points="2659,2905.5 2677,2905.5 2677,2922.5 2659,2922.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="165" transcription="" points="1841,2829 1985,2830 1985,2894 1976,2894 1976,2907 1841,2907 " />
+<polygon class="Wall" fill="#AFD8F8" id="166" transcription="" points="2711,2227.5 2785,2227.5 2784,2452.5 2771,2451.5 2771,2462.5 2711,2462.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="167" transcription="" points="1842.5,2903.25 1880.5,2903.25 1880.5,5664.25 1841.5,5664.75 " />
+<polygon class="Wall" fill="#AFD8F8" id="168" transcription="" points="1881,5626.5 2577,5627 2577,5665 1881,5665.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="169" transcription="" points="2576,4984 2590,4983 2586,4972 2611,4968 2613.625,5666.625 2574.125,5666.125 " />
+<polygon class="Wall" fill="#AFD8F8" id="170" transcription="" points="1878,3945.5 2578,3944 2577,3985 1878,3984.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="171" transcription="" points="2575,3911 2708,3911 2708,3921 2718,3922 2718,3986 2576.5,3985 " />
+<polygon class="Wall" fill="#AFD8F8" id="172" transcription="" points="2574,3983 2613,3982 2612.5,4504 2588.5,4504 2586.5,4494 2574,4495 " />
+<polygon class="Wall" fill="#AFD8F8" id="173" transcription="" points="2234,4477.5 2575,4477.5 2575,4492.5 2234,4492.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="174" transcription="" points="2221,4360.5 2236,4360.5 2236,4493.5 2221,4493.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="175" transcription="" points="2237,4359.5 2577,4359.5 2577,4373.5 2237,4374.5 " />
+<polygon class="Wall" fill="#AFD8F8" id="178" transcription="" points="2476,3948 2477,3734 2503,3735 2502,3948 " />
+<polygon class="Window" fill="#F6BD0F" id="179" transcription="" points="2705.5,2456.75 2785.5,2456.75 2781,2795 2711,2794 " />
+<polygon class="Window" fill="#F6BD0F" id="180" transcription="" points="1984,2825.5 2458,2825.5 2458,2908.5 1984,2908.5 " />
+<polygon class="Window" fill="#F6BD0F" id="181" transcription="" points="3083,3675.5 3227,3675.5 3227,3754.5 3083,3754.5 " />
+<polygon class="Window" fill="#F6BD0F" id="182" transcription="" points="2829.5,3827.5 2903.5,3827.5 2903.5,3990.5 2718,3988 2717,3911 2830.5,3910.5 " />
+<polygon class="Parking" fill="#D64646" id="183" transcription="" points="2574.5,4502.5 2617,4504 2613,4976 2572,4976 " />
+<polygon class="Door" fill="#8BBA00" id="184" transcription="" points="2476,3737.5 2681,3739.5 2666,3616.5 2554,3559.5 2476,3548.5 " />
+<polygon class="Door" fill="#8BBA00" id="185" transcription="" points="2682,2914.5 2684,3103.5 2570,3097.5 2513,3040.5 2484,2909.5 " />
+<polygon class="Room" fill="#FF8E46" id="186" transcription="" points="1883,2904.5 2658,2906.5 2659,3114.5 2476,3114.5 2479,3941.5 1883,3943.5 " />
+<polygon class="Room" fill="#FF8E46" id="187" transcription="" points="2503.5,3145 2771.5,3145 2775.5,3432 2872.5,3434 2870.5,3680 2827.5,3681 2830.5,3914 2572.5,3914 2570.5,3948 2500.5,3945 " />
+<polygon class="Room" fill="#FF8E46" id="188" transcription="" points="2789.5,2241 3253.5,2238 3269.5,3685 2909.5,3685 2899.5,3121 2679.5,3118 2676.5,2911 2796.5,2915 " />
+<polygon class="Wall" fill="#AFD8F8" id="189" transcription="" points="2682,3983 2681,4137 2719,4137 2718,3984 " />
+<polygon class="Wall" fill="#AFD8F8" id="190" transcription="" points="2612,4099 2683,4099 2684,4137 2612,4137 " />
+<polygon class="Wall" fill="#AFD8F8" id="191" transcription="" points="4012,3981 4050,3981 4050,4018 4012,4018 " />
+<polygon class="Wall" fill="#AFD8F8" id="192" transcription="" points="4012,4294 4049,4294 4049,4329 4012,4329 " />
+<polygon class="Wall" fill="#AFD8F8" id="193" transcription="" points="4530,3980 4569,3980 4569,4133 4530,4133 " />
+<polygon class="Wall" fill="#AFD8F8" id="194" transcription="" points="4465,4095 4531,4095 4531,4138 4464,4136 " />
+<polygon class="Wall" fill="#AFD8F8" id="195" transcription="" points="2708,2791 2783,2791 2783,2832 2708,2832 " />
+<relation type="incident" objects="98,100"/>
+<relation type="incident" objects="101,99"/>
+<relation type="incident" objects="99,70"/>
+<relation type="incident" objects="94,123"/>
+<relation type="incident" objects="94,95"/>
+<relation type="incident" objects="96,94"/>
+<relation type="incident" objects="127,126"/>
+<relation type="incident" objects="126,67"/>
+<relation type="incident" objects="91,92"/>
+<relation type="incident" objects="92,120"/>
+<relation type="incident" objects="120,90"/>
+<relation type="incident" objects="90,70"/>
+<relation type="incident" objects="67,98"/>
+<relation type="incident" objects="91,122"/>
+<relation type="incident" objects="122,85"/>
+<relation type="incident" objects="88,85"/>
+<relation type="incident" objects="88,82"/>
+<relation type="incident" objects="82,128"/>
+<relation type="incident" objects="128,84"/>
+<relation type="incident" objects="84,67"/>
+<relation type="incident" objects="82,81"/>
+<relation type="incident" objects="81,80"/>
+<relation type="incident" objects="80,79"/>
+<relation type="incident" objects="79,88"/>
+<relation type="incident" objects="79,118"/>
+<relation type="incident" objects="118,76"/>
+<relation type="incident" objects="76,119"/>
+<relation type="incident" objects="119,78"/>
+<relation type="incident" objects="78,70"/>
+<relation type="incident" objects="76,77"/>
+<relation type="incident" objects="77,74"/>
+<relation type="incident" objects="74,117"/>
+<relation type="incident" objects="117,73"/>
+<relation type="incident" objects="73,70"/>
+<relation type="incident" objects="74,75"/>
+<relation type="incident" objects="75,116"/>
+<relation type="incident" objects="116,69"/>
+<relation type="incident" objects="69,72"/>
+<relation type="incident" objects="72,104"/>
+<relation type="incident" objects="104,68"/>
+<relation type="incident" objects="68,67"/>
+<relation type="incident" objects="72,105"/>
+<relation type="incident" objects="105,71"/>
+<relation type="incident" objects="71,70"/>
+<relation type="neighbour" objects="133,134"/>
+<relation type="neighbour" objects="134,135"/>
+<relation type="neighbour" objects="135,133"/>
+<relation type="access" objects="135,117,134"/>
+<relation type="access" objects="133,116,135"/>
+<relation type="surround" objects="76,119,78,70,117,74,77,76,134"/>
+<relation type="surround" objects="74,117,70,71,105,72,69,116,75,74,135"/>
+<relation type="surround" objects="84,128,82,81,80,79,118,76,77,74,75,116,69,72,104,68,67,84,133"/>
+<relation type="incident" objects="96,139"/>
+<relation type="incident" objects="139,140"/>
+<relation type="incident" objects="140,141"/>
+<relation type="incident" objects="141,127"/>
+<relation type="incident" objects="91,139"/>
+<relation type="incident" objects="139,95"/>
+<relation type="incident" objects="70,138"/>
+<relation type="incident" objects="124,123"/>
+<relation type="incident" objects="70,138"/>
+<relation type="incident" objects="138,148"/>
+<relation type="incident" objects="148,137"/>
+<relation type="incident" objects="137,136"/>
+<relation type="incident" objects="94,146"/>
+<relation type="incident" objects="146,67"/>
+<relation type="neighbour" objects="133,144"/>
+<relation type="neighbour" objects="144,145"/>
+<relation type="neighbour" objects="145,147"/>
+<relation type="neighbour" objects="147,143"/>
+<relation type="access" objects="144,128,133"/>
+<relation type="access" objects="144,127,145"/>
+<relation type="access" objects="147,123,143"/>
+<relation type="access" objects="145,146,147"/>
+<relation type="surround" objects="126,127,141,140,139,91,122,85,88,82,128,67,126,144"/>
+<relation type="surround" objects="146,94,96,139,140,141,127,126,67,146,145"/>
+<relation type="surround" objects="94,123,124,70,90,120,92,91,139,95,94,143"/>
+<relation type="incident" objects="150,149"/>
+<relation type="incident" objects="149,151"/>
+<relation type="incident" objects="151,181"/>
+<relation type="incident" objects="181,153"/>
+<relation type="incident" objects="153,152"/>
+<relation type="incident" objects="152,154"/>
+<relation type="incident" objects="154,155"/>
+<relation type="incident" objects="154,158"/>
+<relation type="incident" objects="158,155"/>
+<relation type="incident" objects="155,156"/>
+<relation type="incident" objects="156,157"/>
+<relation type="incident" objects="157,158"/>
+<relation type="incident" objects="157,159"/>
+<relation type="incident" objects="159,160"/>
+<relation type="incident" objects="160,185"/>
+<relation type="incident" objects="185,164"/>
+<relation type="incident" objects="164,163"/>
+<relation type="incident" objects="163,180"/>
+<relation type="incident" objects="179,166"/>
+<relation type="incident" objects="166,150"/>
+<relation type="incident" objects="180,165"/>
+<relation type="incident" objects="165,167"/>
+<relation type="incident" objects="159,161"/>
+<relation type="incident" objects="161,184"/>
+<relation type="incident" objects="184,178"/>
+<relation type="incident" objects="152,182"/>
+<relation type="incident" objects="182,171"/>
+<relation type="incident" objects="172,171"/>
+<relation type="incident" objects="171,170"/>
+<relation type="incident" objects="172,170"/>
+<relation type="incident" objects="170,178"/>
+<relation type="incident" objects="170,167"/>
+<relation type="incident" objects="172,183"/>
+<relation type="incident" objects="172,175"/>
+<relation type="incident" objects="175,174"/>
+<relation type="incident" objects="174,173"/>
+<relation type="incident" objects="173,172"/>
+<relation type="incident" objects="168,169"/>
+<relation type="incident" objects="168,167"/>
+<relation type="incident" objects="169,183"/>
+<relation type="neighbour" objects="186,187"/>
+<relation type="neighbour" objects="187,188"/>
+<relation type="neighbour" objects="188,186"/>
+<relation type="access" objects="188,185,186"/>
+<relation type="access" objects="186,184,187"/>
+<relation type="surround" objects="165,180,163,185,159,161,184,178,170,167,165,186"/>
+<relation type="surround" objects="159,157,158,154,152,182,171,170,178,184,161,159,187"/>
+<relation type="incident" objects="171,189"/>
+<relation type="incident" objects="189,190"/>
+<relation type="incident" objects="190,172"/>
+<relation type="incident" objects="100,65"/>
+<relation type="incident" objects="65,101"/>
+<relation type="incident" objects="192,82"/>
+<relation type="incident" objects="85,191"/>
+<relation type="incident" objects="194,193"/>
+<relation type="incident" objects="193,85"/>
+<relation type="incident" objects="194,88"/>
+<relation type="incident" objects="195,179"/>
+<relation type="incident" objects="195,163"/>
+<relation type="outerP" objects="165,180,163,195,179,166,150,149,151,181,153,152,182,189,190,172,183,169,168,167"/>
+<relation type="outerP" objects="98,100,65,101,99,70,71,105,72,104,68,67"/>
+<relation type="surround" objects="98,100,65,101,99,70,124,123,94,146,67"/>
+<relation type="surround" objects="163,195,179,166,150,149,151,181,153,154,155,156,159,160,185,164,163,188"/>
+</svg>
