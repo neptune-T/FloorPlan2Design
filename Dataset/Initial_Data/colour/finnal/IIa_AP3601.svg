@@ -114,22 +114,22 @@
 <ns0:polygon class="Window" fill="#f60f0f" id="58" transcription="" points="182,1763 137,1777 111,1777 107,1700 147,1700 " />
 <ns0:polygon class="Parking" fill="#8BBA00" id="59" transcription="" points="170,2032 168,2084 460,2084 458,2033 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="60" transcription="" points="671,1872 604,1910 602,1959 761,1959 757,1908 691,1871 681,1893 " />
-<ns0:polygon class="Door" fill="#008E8E" id="61" transcription="" points="869,1812 864,1951 971,1955 968,1906 956,1857 904,1817 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="61" transcription="" points="869,1812 864,1951 971,1955 968,1906 956,1857 904,1817 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="62" transcription="" points="1061,2292 1389,2293 1389,2244 1061,2245 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="63" transcription="" points="1529,2477 1860,2480 1861,2527 1531,2530 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="64" transcription="" points="1387,1677 1506,1678 1505,1532 1389,1530 1402,1581 1446,1603 1404,1622 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="65" transcription="" points="1391,1339 1505,1338 1501,1192 1387,1196 1396,1241 1438,1266 1395,1296 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="66" transcription="" points="1387,1003 1506,1000 1509,857 1388,858 1400,911 1438,931 1397,951 " />
-<ns0:polygon class="Door" fill="#008E8E" id="67" transcription="" points="1080,1781 981,1782 983,1871 1034,1868 1073,1829 " />
-<ns0:polygon class="Door" fill="#008E8E" id="68" transcription="" points="758,1779 853,1778 849,1875 797,1862 765,1822 " />
-<ns0:polygon class="Door" fill="#008E8E" id="69" transcription="" points="1099,1519 1005,1518 1006,1613 1054,1602 1092,1559 " />
-<ns0:polygon class="Door" fill="#008E8E" id="70" transcription="" points="1098,1186 999,1184 997,1274 1049,1270 1090,1232 " />
-<ns0:polygon class="Door" fill="#008E8E" id="71" transcription="" points="1101,1091 1004,1090 1004,996 1052,1005 1088,1042 " />
-<ns0:polygon class="Door" fill="#008E8E" id="72" transcription="" points="851,899 854,995 754,991 771,939 806,909 " />
-<ns0:polygon class="Door" fill="#008E8E" id="73" transcription="" points="540,1089 635,1089 631,994 582,1007 548,1044 " />
-<ns0:polygon class="Door" fill="#008E8E" id="74" transcription="" points="535,1106 634,1105 633,1194 590,1192 549,1159 " />
-<ns0:polygon class="Door" fill="#008E8E" id="75" transcription="" points="715,1204 636,1250 731,1250 729,1224 " />
-<ns0:polygon class="Door" fill="#008E8E" id="76" transcription="" points="405,1520 503,1521 502,1616 440,1599 407,1559 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="67" transcription="" points="1080,1781 981,1782 983,1871 1034,1868 1073,1829 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="68" transcription="" points="758,1779 853,1778 849,1875 797,1862 765,1822 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="69" transcription="" points="1099,1519 1005,1518 1006,1613 1054,1602 1092,1559 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="70" transcription="" points="1098,1186 999,1184 997,1274 1049,1270 1090,1232 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="71" transcription="" points="1101,1091 1004,1090 1004,996 1052,1005 1088,1042 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="72" transcription="" points="851,899 854,995 754,991 771,939 806,909 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="73" transcription="" points="540,1089 635,1089 631,994 582,1007 548,1044 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="74" transcription="" points="535,1106 634,1105 633,1194 590,1192 549,1159 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="75" transcription="" points="715,1204 636,1250 731,1250 729,1224 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="76" transcription="" points="405,1520 503,1521 502,1616 440,1599 407,1559 " />
 <ns0:polygon class="bedRoom" fill="#d98a8f" id="77" transcription="" points="1451,2244 1033,2241 1036,1908 995,1906 992,1762 1455,1757 1457,1772 " />
 <ns0:polygon class="bedRoom" fill="#d98a8f" id="78" transcription="" points="1456,1442 1455,1724 1017,1725 1018,1441 " />
 <ns0:polygon class="bedRoom" fill="#d98a8f" id="79" transcription="" points="1019,1106 1017,1424 1453,1425 1452,1109 " />

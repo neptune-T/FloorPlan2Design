@@ -121,21 +121,21 @@
 <ns0:polygon class="Window" fill="#f60f0f" id="65" transcription="" points="518,2451 568,2449 569,2597 520,2598 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="66" transcription="" points="519,2092 569,2091 569,2190 521,2192 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="67" transcription="" points="639,1908 685,1906 687,1952 640,1952 " />
-<ns0:polygon class="Door" fill="#008E8E" id="68" transcription="" points="786,1884 643,1884 640,1780 686,1780 732,1792 771,1832 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="68" transcription="" points="786,1884 643,1884 640,1780 686,1780 732,1792 771,1832 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="69" transcription="" points="571,1429 519,1429 520,1576 570,1577 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="70" transcription="" points="569,1204 522,1204 521,1279 569,1281 " />
-<ns0:polygon class="Door" fill="#008E8E" id="71" transcription="" points="887,1205 886,1076 791,1076 792,1121 806,1171 842,1199 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="71" transcription="" points="887,1205 886,1076 791,1076 792,1121 806,1171 842,1199 " />
 <ns0:polygon class="Parking" fill="#F6BD0F" id="72" transcription="" points="744,766 794,766 796,1056 749,1055 " />
-<ns0:polygon class="Door" fill="#008E8E" id="73" transcription="" points="798,1255 833,1225 884,1210 885,1307 790,1310 " />
-<ns0:polygon class="Door" fill="#008E8E" id="74" transcription="" points="945,1979 902,1898 898,1998 923,1994 " />
-<ns0:polygon class="Door" fill="#008E8E" id="75" transcription="" points="1001,1992 998,1890 906,1892 920,1953 952,1979 " />
-<ns0:polygon class="Door" fill="#008E8E" id="76" transcription="" points="808,2086 901,2084 905,2183 845,2171 812,2128 " />
-<ns0:polygon class="Door" fill="#008E8E" id="77" transcription="" points="805,2463 901,2462 902,2366 846,2380 815,2418 " />
-<ns0:polygon class="Door" fill="#008E8E" id="78" transcription="" points="1182,2269 1184,2363 1085,2363 1096,2320 1128,2280 " />
-<ns0:polygon class="Door" fill="#008E8E" id="79" transcription="" points="1287,2459 1186,2462 1184,2364 1229,2370 1268,2405 " />
-<ns0:polygon class="Door" fill="#008E8E" id="80" transcription="" points="1181,2558 1182,2465 1086,2462 1096,2511 1131,2550 " />
-<ns0:polygon class="Door" fill="#008E8E" id="81" transcription="" points="1114,2617 1025,2616 1024,2710 1078,2700 1108,2663 " />
-<ns0:polygon class="Door" fill="#008E8E" id="82" transcription="" points="808,2618 899,2617 901,2710 847,2696 809,2654 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="73" transcription="" points="798,1255 833,1225 884,1210 885,1307 790,1310 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="74" transcription="" points="945,1979 902,1898 898,1998 923,1994 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="75" transcription="" points="1001,1992 998,1890 906,1892 920,1953 952,1979 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="76" transcription="" points="808,2086 901,2084 905,2183 845,2171 812,2128 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="77" transcription="" points="805,2463 901,2462 902,2366 846,2380 815,2418 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="78" transcription="" points="1182,2269 1184,2363 1085,2363 1096,2320 1128,2280 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="79" transcription="" points="1287,2459 1186,2462 1184,2364 1229,2370 1268,2405 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="80" transcription="" points="1181,2558 1182,2465 1086,2462 1096,2511 1131,2550 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="81" transcription="" points="1114,2617 1025,2616 1024,2710 1078,2700 1108,2663 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="82" transcription="" points="808,2618 899,2617 901,2710 847,2696 809,2654 " />
 <ns0:polygon class="kitchen" fill="#4c76f2" id="83" transcription="" points="793,445 795,1072 1538,1071 1532,442 " />
 <ns0:polygon class="livingRoom" fill="#1ec558" id="84" transcription="" points="569,1123 571,1293 892,1298 891,1121 " />
 <ns0:polygon class="bathRoom" fill="#cf6fc2" id="85" transcription="" points="572,1311 571,1714 1000,1714 900,1309 " />

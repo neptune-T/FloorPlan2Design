@@ -84,11 +84,11 @@
 <ns0:polygon class="Window" fill="#f60f0f" id="28" transcription="" points="2108,1660 2108,1775 1965,1776 1965,1660 2007,1666 2037,1705 2066,1668 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="29" transcription="" points="1619,1660 1619,1775 1474,1775 1474,1660 1514,1667 1547,1714 1574,1670 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="30" transcription="" points="1396,1590 1350,1680 1300,1679 1299,1578 1347,1575 1374,1579 " />
-<ns0:polygon class="Door" fill="#008E8E" id="31" transcription="" points="1445,1311 1303,1309 1302,1412 1350,1414 1404,1395 1440,1350 " />
-<ns0:polygon class="Door" fill="#008E8E" id="32" transcription="" points="1600.5,960 1652.5,944 1653.5,1039 1561.5,1041 1569.5,996 " />
-<ns0:polygon class="Door" fill="#008E8E" id="33" transcription="" points="1732.5,970 1688.5,962 1685.5,1058 1782.5,1057 1769.5,1006 " />
-<ns0:polygon class="Door" fill="#008E8E" id="34" transcription="" points="1881,1154 1785,1155 1783,1062 1833,1070 1873,1115 " />
-<ns0:polygon class="Door" fill="#008E8E" id="35" transcription="" points="1603,1190 1556,1270 1552,1177 1575,1176 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="31" transcription="" points="1445,1311 1303,1309 1302,1412 1350,1414 1404,1395 1440,1350 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="32" transcription="" points="1600.5,960 1652.5,944 1653.5,1039 1561.5,1041 1569.5,996 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="33" transcription="" points="1732.5,970 1688.5,962 1685.5,1058 1782.5,1057 1769.5,1006 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="34" transcription="" points="1881,1154 1785,1155 1783,1062 1833,1070 1873,1115 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="35" transcription="" points="1603,1190 1556,1270 1552,1177 1575,1176 " />
 <ns0:polygon class="bedRoom" fill="#d98a8f" id="36" transcription="" points="1688,835 1689,1048 1882,1047 1880,836 " />
 <ns0:polygon class="bathRoom" fill="#cf6fc2" id="37" transcription="" points="2279,836 2281,1156 1785,1154 1788,1064 1896,1062 1893,835 " />
 <ns0:polygon class="bedRoom" fill="#d98a8f" id="38" transcription="" points="1781,1060 1780,1154 1657,1154 1657,1171 1730,1172 1732,1268 1563,1270 1565,1059 " />

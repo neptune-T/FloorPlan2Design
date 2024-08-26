@@ -118,7 +118,7 @@
 <ns0:polygon class="Window" fill="#f60f0f" id="62" transcription="" points="1285,2309 1241,2312 1239,2593 1284,2593 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="63" transcription="" points="1320,2177 1287,2242 1238,2243 1238,2093 1286,2093 1321,2159 1308,2169 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="64" transcription="" points="1125,1921 1125,2035 981,2034 981,1920 1017,1925 1053,1968 1081,1929 " />
-<ns0:polygon class="Door" fill="#008E8E" id="65" transcription="" points="1758,1570 1759,1430 1657,1430 1657,1473 1667,1526 1705,1563 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="65" transcription="" points="1758,1570 1759,1430 1657,1430 1657,1473 1667,1526 1705,1563 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="66" transcription="" points="1519,1376 1559,1310 1601,1311 1601,1391 1555,1391 1532,1385 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="67" transcription="" points="1399,988 1461,954 1463,906 1314,905 1315,956 1377,990 1389,977 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="68" transcription="" points="1014,990 951,951 950,908 1025,905 1027,957 1024,973 " />
@@ -126,18 +126,18 @@
 <ns0:polygon class="Window" fill="#f60f0f" id="70" transcription="" points="411,1369 373,1305 328,1306 327,1382 371,1382 393,1379 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="71" transcription="" points="412,1605 375,1542 327,1541 327,1619 373,1619 390,1617 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="72" transcription="" points="526,1922 523,2035 668,2036 670,1919 619,1932 600,1971 570,1929 " />
-<ns0:polygon class="Door" fill="#008E8E" id="73" transcription="" points="739,1724 740,1633 649,1634 657,1689 695,1720 " />
-<ns0:polygon class="Door" fill="#008E8E" id="74" transcription="" points="912,1725 908,1634 1004,1632 995,1682 960,1721 " />
-<ns0:polygon class="Door" fill="#008E8E" id="75" transcription="" points="649,1548 602,1630 600,1535 624,1537 " />
-<ns0:polygon class="Door" fill="#008E8E" id="76" transcription="" points="605,1434 606,1530 706,1530 694,1480 655,1443 " />
-<ns0:polygon class="Door" fill="#008E8E" id="77" transcription="" points="506,1292 605,1291 604,1386 545,1376 515,1335 " />
-<ns0:polygon class="Door" fill="#008E8E" id="78" transcription="" points="704,1381 704,1285 604,1286 612,1335 647,1365 " />
-<ns0:polygon class="Door" fill="#008E8E" id="79" transcription="" points="1215,1193 1219,1289 1118,1287 1124,1246 1157,1206 " />
-<ns0:polygon class="Door" fill="#008E8E" id="80" transcription="" points="1317,1388 1220,1387 1218,1294 1264,1302 1305,1336 " />
-<ns0:polygon class="Door" fill="#008E8E" id="81" transcription="" points="1539,1518 1455,1472 1554,1470 1551,1498 " />
-<ns0:polygon class="Door" fill="#008E8E" id="82" transcription="" points="1128,1630 1222,1627 1220,1531 1181,1543 1138,1584 " />
-<ns0:polygon class="Door" fill="#008E8E" id="83" transcription="" points="1513,1817 1608,1818 1601,1721 1555,1733 1522,1776 " />
-<ns0:polygon class="Door" fill="#008E8E" id="84" transcription="" points="1884,1867 1788,1870 1789,1778 1839,1786 1877,1825 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="73" transcription="" points="739,1724 740,1633 649,1634 657,1689 695,1720 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="74" transcription="" points="912,1725 908,1634 1004,1632 995,1682 960,1721 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="75" transcription="" points="649,1548 602,1630 600,1535 624,1537 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="76" transcription="" points="605,1434 606,1530 706,1530 694,1480 655,1443 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="77" transcription="" points="506,1292 605,1291 604,1386 545,1376 515,1335 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="78" transcription="" points="704,1381 704,1285 604,1286 612,1335 647,1365 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="79" transcription="" points="1215,1193 1219,1289 1118,1287 1124,1246 1157,1206 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="80" transcription="" points="1317,1388 1220,1387 1218,1294 1264,1302 1305,1336 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="81" transcription="" points="1539,1518 1455,1472 1554,1470 1551,1498 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="82" transcription="" points="1128,1630 1222,1627 1220,1531 1181,1543 1138,1584 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="83" transcription="" points="1513,1817 1608,1818 1601,1721 1555,1733 1522,1776 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="84" transcription="" points="1884,1867 1788,1870 1789,1778 1839,1786 1877,1825 " />
 <ns0:polygon class="livingRoom" fill="#1ec558" id="85" transcription="" points="379,958 380,1279 912,1280 911,955 " />
 <ns0:polygon class="livingRoom" fill="#1ec558" id="86" transcription="" points="1213,958 1217,1282 924,1278 926,957 " />
 <ns0:polygon class="livingRoom" fill="#1ec558" id="87" transcription="" points="1223,956 1226,1383 1449,1387 1444,1293 1552,1291 1548,956 " />

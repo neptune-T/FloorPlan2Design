@@ -117,20 +117,20 @@
 <ns0:polygon class="Window" fill="#f60f0f" id="61" transcription="" points="2127,1817 2162,1880 2210,1880 2210,1731 2162,1733 2127,1796 2139,1805 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="62" transcription="" points="2292,1540 2291,1653 2440,1653 2437,1539 2386,1548 2365,1586 2333,1544 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="63" transcription="" points="2451,1414 2484,1480 2534,1480 2534,1328 2489,1330 2451,1395 2463,1404 " />
-<ns0:polygon class="Door" fill="#008E8E" id="64" transcription="" points="2268,998 2412,999 2411,1103 2365,1105 2304,1085 2273,1047 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="64" transcription="" points="2268,998 2412,999 2411,1103 2365,1105 2304,1085 2273,1047 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="65" transcription="" points="2450,741 2488,807 2536,804 2535,658 2484,655 2451,722 2464,731 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="66" transcription="" points="2032,591 1966,552 1967,508 2042,506 2046,555 2040,575 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="67" transcription="" points="1853,591.5 1787,552.5 1790,506.5 1866,503.5 1867,550.5 1863,570.5 " />
-<ns0:polygon class="Door" fill="#008E8E" id="68" transcription="" points="1649,901 1774,905 1776,795 1748,792 1697,810 1658,854 " />
-<ns0:polygon class="Door" fill="#008E8E" id="69" transcription="" points="1856,903 1964,902 1962,795 1898,811 1863,857 " />
-<ns0:polygon class="Door" fill="#008E8E" id="70" transcription="" points="2182,904 2077,904 2073,799 2145,816 2180,868 " />
-<ns0:polygon class="Door" fill="#008E8E" id="71" transcription="" points="1967.5,689.5 1962.5,797.5 2075.5,797.5 2069.5,746.5 2028.5,704.5 " />
-<ns0:polygon class="Door" fill="#008E8E" id="72" transcription="" points="1389,1006 1496,1007 1497,1114 1430,1101 1394,1059 " />
-<ns0:polygon class="Door" fill="#008E8E" id="73" transcription="" points="1135,1225 1135,1115 1238,1114 1228,1174 1181,1216 " />
-<ns0:polygon class="Door" fill="#008E8E" id="74" transcription="" points="1116,1225 1123,1114 1012,1113 1024,1176 1054,1205 " />
-<ns0:polygon class="Door" fill="#008E8E" id="75" transcription="" points="901,1008 1011,1004 1009,1112 951,1098 909,1054 " />
-<ns0:polygon class="Door" fill="#008E8E" id="76" transcription="" points="906,913 1011,917 1009,810 946,830 919,861 " />
-<ns0:polygon class="Door" fill="#008E8E" id="77" transcription="" points="1116,913 1119,803 1014,804 1025,863 1062,897 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="68" transcription="" points="1649,901 1774,905 1776,795 1748,792 1697,810 1658,854 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="69" transcription="" points="1856,903 1964,902 1962,795 1898,811 1863,857 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="70" transcription="" points="2182,904 2077,904 2073,799 2145,816 2180,868 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="71" transcription="" points="1967.5,689.5 1962.5,797.5 2075.5,797.5 2069.5,746.5 2028.5,704.5 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="72" transcription="" points="1389,1006 1496,1007 1497,1114 1430,1101 1394,1059 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="73" transcription="" points="1135,1225 1135,1115 1238,1114 1228,1174 1181,1216 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="74" transcription="" points="1116,1225 1123,1114 1012,1113 1024,1176 1054,1205 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="75" transcription="" points="901,1008 1011,1004 1009,1112 951,1098 909,1054 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="76" transcription="" points="906,913 1011,917 1009,810 946,830 919,861 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="77" transcription="" points="1116,913 1119,803 1014,804 1025,863 1062,897 " />
 <ns0:polygon class="bedRoom" fill="#d98a8f" id="78" transcription="" points="1151,334 1151,975 1748,975 1745,335 " />
 <ns0:polygon class="bedRoom" fill="#d98a8f" id="79" transcription="" points="1017,558 1018,799 1119,798 1118,558 " />
 <ns0:polygon class="livingRoom" fill="#1ec558" id="80" transcription="" points="681,560 679,992 999,991 1001,560 " />

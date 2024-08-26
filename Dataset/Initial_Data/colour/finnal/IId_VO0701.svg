@@ -99,19 +99,19 @@
 <ns0:polygon class="Wall" fill="#AFD8F8" id="43" transcription="" points="1268,2619 1262,2620 1262,2575 1268,2567 " />
 <ns0:polygon class="Parking" fill="#F6BD0F" id="44" transcription="" points="1579.5,672 1576.5,1099 1634.5,1099 1632.5,668 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="45" transcription="" points="1571,1261 1622,1261 1622,1335 1571,1336 " />
-<ns0:polygon class="Door" fill="#008E8E" id="46" transcription="" points="1298,1573 1406,1572 1407,1672 1352,1671 1304,1620 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="46" transcription="" points="1298,1573 1406,1572 1407,1672 1352,1671 1304,1620 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="47" transcription="" points="1790,1916 1839,1916 1841,2064 1792,2064 " />
-<ns0:polygon class="Door" fill="#008E8E" id="48" transcription="" points="1561,2134 1556,2265 1653,2268 1653,2220 1638,2170 1590,2136 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="48" transcription="" points="1561,2134 1556,2265 1653,2268 1653,2220 1638,2170 1590,2136 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="49" transcription="" points="1427,2376 1541,2375 1544,2516 1427,2512 1435,2466 1470,2441 1434,2413 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="50" transcription="" points="883,2618 883,2664 1166,2663 1168,2618 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="51" transcription="" points="860,1939 808,1941 809,2083 860,2084 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="52" transcription="" points="809,1783 857,1782 859,1708 810,1708 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="53" transcription="" points="577,1373 627,1373 627,1518 578,1516 " />
-<ns0:polygon class="Door" fill="#008E8E" id="54" transcription="" points="1094,1281 1091,1187 1190,1183 1177,1239 1140,1274 " />
-<ns0:polygon class="Door" fill="#008E8E" id="55" transcription="" points="1306,1195 1208,1193 1209,1293 1266,1278 1301,1233 " />
-<ns0:polygon class="Door" fill="#008E8E" id="56" transcription="" points="1186,1567 1189,1470 1091,1468 1102,1523 1130,1553 " />
-<ns0:polygon class="Door" fill="#008E8E" id="57" transcription="" points="887,1576 986,1577 984,1477 925,1500 895,1530 " />
-<ns0:polygon class="Door" fill="#008E8E" id="58" transcription="" points="1084,1683 1086,1580 985,1579 992,1624 1023,1662 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="54" transcription="" points="1094,1281 1091,1187 1190,1183 1177,1239 1140,1274 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="55" transcription="" points="1306,1195 1208,1193 1209,1293 1266,1278 1301,1233 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="56" transcription="" points="1186,1567 1189,1470 1091,1468 1102,1523 1130,1553 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="57" transcription="" points="887,1576 986,1577 984,1477 925,1500 895,1530 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="58" transcription="" points="1084,1683 1086,1580 985,1579 992,1624 1023,1662 " />
 <ns0:polygon class="livingRoom" fill="#1ec558" id="59" transcription="" points="613,585 609,1193 1064,1193 1061,1165 1586,1161 1587,579 " />
 <ns0:polygon class="bathRoom" fill="#cf6fc2" id="60" transcription="" points="1570,1197 1568,1420 1217,1409 1221,1199 " />
 <ns0:polygon class="livingRoom" fill="#1ec558" id="61" transcription="" points="1094,1465 1185,1465 1191,1186 1091,1185 " />

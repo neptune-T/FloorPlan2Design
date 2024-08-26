@@ -123,21 +123,21 @@
 <ns0:polygon class="Window" fill="#f60f0f" id="67" transcription="" points="2257,1725 2254,1768 2535,1769 2536,1723 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="68" transcription="" points="1855,1724 1852,1768 2132,1771 2133,1724 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="69" transcription="" points="1549,1724 1548,1768 1826,1768 1831,1722 " />
-<ns0:polygon class="Door" fill="#008E8E" id="70" transcription="" points="1629,1649 1484,1652 1483,1546 1531,1543 1575,1552 1617,1588 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="70" transcription="" points="1629,1649 1484,1652 1483,1546 1531,1543 1575,1552 1617,1588 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="71" transcription="" points="1146,1488 1143,1533 1427,1533 1426,1487 " />
 <ns0:polygon class="Wall" fill="#AFD8F8" id="72" transcription="" points="1061,1744 1084,1745 1085,1768 1060,1768 " />
 <ns0:polygon class="Wall" fill="#AFD8F8" id="73" transcription="" points="634,1744 658,1745 660,1768 634,1768 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="74" transcription="" points="721,1486 720,1533 1004,1536 1001,1487 " />
-<ns0:polygon class="Door" fill="#008E8E" id="75" transcription="" points="771,1212 633,1212 632,1312 682,1311 737,1296 770,1250 " />
-<ns0:polygon class="Door" fill="#008E8E" id="76" transcription="" points="1385,882 1509,880 1512,989 1487,988 1423,973 1391,927 " />
-<ns0:polygon class="Door" fill="#008E8E" id="77" transcription="" points="1591,882 1699,881 1701,986 1642,979 1600,931 " />
-<ns0:polygon class="Door" fill="#008E8E" id="78" transcription="" points="2172,1057 2266,1001 2158,1002 2158,1031 " />
-<ns0:polygon class="Door" fill="#008E8E" id="79" transcription="" points="2373,1111 2264,1114 2267,1004 2331,1024 2369,1078 " />
-<ns0:polygon class="Door" fill="#008E8E" id="80" transcription="" points="2704,1208 2625,1288 2553,1207 2600,1171 2651,1175 " />
-<ns0:polygon class="Door" fill="#008E8E" id="81" transcription="" points="2631,1443 2547,1365 2622,1289 2659,1330 2665,1390 " />
-<ns0:polygon class="Door" fill="#008E8E" id="82" transcription="" points="2543,1473 2541,1371 2439,1370 2449,1430 2490,1467 " />
-<ns0:polygon class="Door" fill="#008E8E" id="83" transcription="" points="2042,1255 2149,1255 2152,1364 2086,1351 2049,1295 " />
-<ns0:polygon class="Door" fill="#008E8E" id="84" transcription="" points="953,1200 1061,1196 1064,1308 994,1293 959,1244 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="75" transcription="" points="771,1212 633,1212 632,1312 682,1311 737,1296 770,1250 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="76" transcription="" points="1385,882 1509,880 1512,989 1487,988 1423,973 1391,927 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="77" transcription="" points="1591,882 1699,881 1701,986 1642,979 1600,931 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="78" transcription="" points="2172,1057 2266,1001 2158,1002 2158,1031 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="79" transcription="" points="2373,1111 2264,1114 2267,1004 2331,1024 2369,1078 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="80" transcription="" points="2704,1208 2625,1288 2553,1207 2600,1171 2651,1175 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="81" transcription="" points="2631,1443 2547,1365 2622,1289 2659,1330 2665,1390 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="82" transcription="" points="2543,1473 2541,1371 2439,1370 2449,1430 2490,1467 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="83" transcription="" points="2042,1255 2149,1255 2152,1364 2086,1351 2049,1295 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="84" transcription="" points="953,1200 1061,1196 1064,1308 994,1293 959,1244 " />
 <ns0:polygon class="livingRoom" fill="#1ec558" id="85" transcription="" points="668,606 664,1076 1483,1078 1481,606 " />
 <ns0:polygon class="kitchen" fill="#4c76f2" id="86" transcription="" points="1512,620 1515,1093 1690,1096 1688,622 " />
 <ns0:polygon class="bedRoom" fill="#d98a8f" id="87" transcription="" points="1701,797 1705,1245 2066,1245 2062,996 2142,993 2144,799 " />

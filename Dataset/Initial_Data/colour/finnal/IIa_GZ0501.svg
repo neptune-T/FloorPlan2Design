@@ -96,21 +96,21 @@
 <ns0:polygon class="Window" fill="#f60f0f" id="40" transcription="" points="974,1175 925,1088 876,1090 874,1189 928,1189 949,1182 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="41" transcription="" points="725,1570 678,1657 629,1658 625,1557 679,1556 704,1561 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="42" transcription="" points="713,1821 673,1756 628,1757 629,1838 677,1838 692,1831 " />
-<ns0:polygon class="Door" fill="#008E8E" id="43" transcription="" points="972,2140 971,2282 876,2281 872,2233 888,2176 926,2146 " />
-<ns0:polygon class="Door" fill="#008E8E" id="44" transcription="" points="1126,2296 984,2294 983,2394 1036,2392 1087,2378 1121,2342 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="43" transcription="" points="972,2140 971,2282 876,2281 872,2233 888,2176 926,2146 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="44" transcription="" points="1126,2296 984,2294 983,2394 1036,2392 1087,2378 1121,2342 " />
 <ns0:polygon class="Wall" fill="#AFD8F8" id="45" transcription="" points="634,2609 658,2609 660,2634 634,2632 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="46" transcription="" points="1175,2589 1177,2635 1460,2634 1462,2587 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="47" transcription="" points="1487,2221 1536,2132 1585,2131 1587,2234 1537,2235 1508,2229 " />
-<ns0:polygon class="Door" fill="#008E8E" id="48" transcription="" points="1438,1817 1582,1814 1583,1919 1532,1920 1477,1900 1440,1856 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="48" transcription="" points="1438,1817 1582,1814 1583,1919 1532,1920 1477,1900 1440,1856 " />
 <ns0:polygon class="Window" fill="#f60f0f" id="49" transcription="" points="1487,1583 1538,1497 1584,1495 1587,1598 1535,1599 1509,1595 " />
 <ns0:polygon class="livingRoom" fill="#1ec558" id="50" transcription="" points="911,703 911,1044 1553,1044 1550,703 " />
-<ns0:polygon class="Door" fill="#008E8E" id="51" transcription="" points="1372,1148 1369,1047 1467,1048 1456,1111 1412,1143 " />
-<ns0:polygon class="Door" fill="#008E8E" id="52" transcription="" points="1366,1173 1368,1284 1469,1278 1463,1232 1426,1184 " />
-<ns0:polygon class="Door" fill="#008E8E" id="53" transcription="" points="1012,1451 1013,1553 1112,1551 1096,1485 1050,1454 " />
-<ns0:polygon class="Door" fill="#008E8E" id="54" transcription="" points="913,1684 1013,1685 1011,1587 959,1594 927,1634 " />
-<ns0:polygon class="Door" fill="#008E8E" id="55" transcription="" points="912,1697 1013,1693 1013,1794 960,1789 925,1744 " />
-<ns0:polygon class="Door" fill="#008E8E" id="56" transcription="" points="1065,1699 1117,1619 1118,1714 1088,1714 " />
-<ns0:polygon class="Door" fill="#008E8E" id="57" transcription="" points="1109.5,2000 1113.5,1903 1013.5,1904 1021.5,1953 1064.5,1990 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="51" transcription="" points="1372,1148 1369,1047 1467,1048 1456,1111 1412,1143 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="52" transcription="" points="1366,1173 1368,1284 1469,1278 1463,1232 1426,1184 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="53" transcription="" points="1012,1451 1013,1553 1112,1551 1096,1485 1050,1454 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="54" transcription="" points="913,1684 1013,1685 1011,1587 959,1594 927,1634 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="55" transcription="" points="912,1697 1013,1693 1013,1794 960,1789 925,1744 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="56" transcription="" points="1065,1699 1117,1619 1118,1714 1088,1714 " />
+<ns0:polygon class="Door" fill="#8BBA00" id="57" transcription="" points="1109.5,2000 1113.5,1903 1013.5,1904 1021.5,1953 1064.5,1990 " />
 <ns0:polygon class="livingRoom" fill="#1ec558" id="58" transcription="" points="1336,1080 1337,1541 1125,1542 1124,1466 1105,1464 1106,1543 1017,1543 1018,1233 926,1234 928,1079 " />
 <ns0:polygon class="bedRoom" fill="#d98a8f" id="59" transcription="" points="1552,1063 1552,1257 1371,1260 1373,1064 " />
 <ns0:polygon class="livingRoom" fill="#1ec558" id="60" transcription="" points="1354,1296 1354,1555 1228,1560 1230,1787 1535,1787 1531,1292 " />
