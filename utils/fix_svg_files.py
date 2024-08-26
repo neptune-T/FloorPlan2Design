@@ -43,6 +43,7 @@ def batch_process(input_directory, output_directory):
             fix_svg(file_path, save_path)
             print(f"Processed {filename} and saved to {save_path}")
 
+# 使用相对路径
 input_directory = os.path.join('Dateset', 'Initial_Data', 'SVG')
 output_directory = os.path.join('Dateset', 'Initial_Data', 'fix_svg')
 

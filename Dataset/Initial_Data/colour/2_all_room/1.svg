@@ -1,0 +1,318 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" version="1.1" width="2550" height="3300">
+<ns0:width>1950</ns0:width>
+<ns0:height>1867</ns0:height>
+<ns0:nclasslabel>50</ns0:nclasslabel>
+<ns0:nclassappear>6</ns0:nclassappear>
+<ns0:class>Bidet-1</ns0:class>
+<ns0:class>Bidet-2</ns0:class>
+<ns0:class>Bidet-3</ns0:class>
+<ns0:class>Bidet-4</ns0:class>
+<ns0:class>Door</ns0:class>
+<ns0:class>Door-1</ns0:class>
+<ns0:class>Door-23</ns0:class>
+<ns0:class>Oven-1</ns0:class>
+<ns0:class>Oven-2</ns0:class>
+<ns0:class>Oven-3</ns0:class>
+<ns0:class>Oven-4</ns0:class>
+<ns0:class>Parking</ns0:class>
+<ns0:class>Roof</ns0:class>
+<ns0:class>Room</ns0:class>
+<ns0:class>Separation</ns0:class>
+<ns0:class>Sink-1</ns0:class>
+<ns0:class>Sink-11</ns0:class>
+<ns0:class>Sink-12</ns0:class>
+<ns0:class>Sink-13</ns0:class>
+<ns0:class>Sink-14</ns0:class>
+<ns0:class>Sink-2</ns0:class>
+<ns0:class>Sink-3</ns0:class>
+<ns0:class>Sink-4</ns0:class>
+<ns0:class>Sink-5</ns0:class>
+<ns0:class>Sink-6</ns0:class>
+<ns0:class>Sofa-1</ns0:class>
+<ns0:class>Sofa-3</ns0:class>
+<ns0:class>Sofa-4</ns0:class>
+<ns0:class>Sofa-5</ns0:class>
+<ns0:class>Sofa-6</ns0:class>
+<ns0:class>Sofa-7</ns0:class>
+<ns0:class>Sofa-8</ns0:class>
+<ns0:class>Sofa-9</ns0:class>
+<ns0:class>Stairs-1</ns0:class>
+<ns0:class>Table-1</ns0:class>
+<ns0:class>Table-2</ns0:class>
+<ns0:class>Table-3</ns0:class>
+<ns0:class>Table-4</ns0:class>
+<ns0:class>Table-5</ns0:class>
+<ns0:class>Table-6</ns0:class>
+<ns0:class>Table-7</ns0:class>
+<ns0:class>Text</ns0:class>
+<ns0:class>Tub-1</ns0:class>
+<ns0:class>Tub-3</ns0:class>
+<ns0:class>TV-1</ns0:class>
+<ns0:class>TV-2</ns0:class>
+<ns0:class>Wall</ns0:class>
+<ns0:class>Wall-1</ns0:class>
+<ns0:class>Wallieee</ns0:class>
+<ns0:class>Window</ns0:class>
+<ns0:polygon class="Wall" fill="#AFD8F8" id="0" transcription="" points="1177,152 826,150 826,181 1176,182 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="1" transcription="" points="1249,401 1432,402 1435,434 1251,433 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="2" transcription="" points="1186,435 1148,432 1147,403 1184,401 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="3" transcription="" points="1146,348 1179,349 1179,402 1147,404 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="4" transcription="" points="1145,250 1177,251 1177,181 1147,182 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="5" transcription="" points="1579,403 1687,403 1689,434 1581,433 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="6" transcription="" points="1690,664 1657,664 1657,435 1689,434 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="7" transcription="" points="1656,728 1688,728 1688,882 1661,882 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="8" transcription="" points="1628,852 1629,881 1689,882 1686,852 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="9" transcription="" points="1502,852 1556,852 1556,882 1503,882 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="10" transcription="" points="1533,988 1504,988 1502,878 1530,879 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="11" transcription="" points="1434,957 1436,988 1533,989 1530,957 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="12" transcription="" points="1288,957 1286,988 1169,988 1169,958 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="13" transcription="" points="1107,988 1066,988 1063,957 1105,957 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="14" transcription="" points="1085,1053 1064,1054 1066,980 1085,980 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="15" transcription="" points="1046,959 1045,981 1071,980 1072,956 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="16" transcription="" points="1085,1421 1083,1119 1064,1117 1064,1422 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="17" transcription="" points="957,1399 1066,1400 1067,1421 959,1418 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="18" transcription="" points="909,1397 793,1398 792,1418 911,1418 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="19" transcription="" points="598,1397 538,1396 536,1419 597,1418 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="20" transcription="" points="538,1030 536,1398 555,1398 558,1029 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="21" transcription="" points="539,735 569,734 569,924 539,924 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="22" transcription="" points="537,961 557,958 556,922 537,923 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="23" transcription="" points="812,939 537,937 536,923 812,923 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="24" transcription="" points="796,982 797,937 813,937 811,982 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="25" transcription="" points="981,957 811,956 812,981 982,982 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="26" transcription="" points="571,638 539,636 538,557 569,557 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="27" transcription="" points="539,181 572,181 572,491 539,492 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="28" transcription="" points="729,180 539,180 539,150 728,150 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="29" transcription="" points="904,277 906,182 898,181 898,278 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="30" transcription="" points="848,270 899,271 898,278 847,277 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="31" transcription="" points="844,365.5 844,269.5 854,268.5 852,364.5 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="32" transcription="" points="897,369 841,369 842,376 897,377 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="33" transcription="" points="828,392 821,385 841,364 845,372 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="34" transcription="" points="897,396 896,369 903,369 904,396 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="35" transcription="" points="1000,425 1149,426 1149,433 1000,432 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="36" transcription="" points="1008,467 1007,425 1001,426 999,468 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="37" transcription="" points="897,460 1007,460 1007,467 898,468 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="38" transcription="" points="955,460 947,460 946,612 954,611 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="39" transcription="" points="898,610 1128,610 1127,619 898,619 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="40" transcription="" points="815,559 816,617 823,618 824,559 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="41" transcription="" points="735,565 742,565 743,620 737,621 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="42" transcription="" points="742,603 819,602 819,610 742,610 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="43" transcription="" points="737,620 569,622 569,614 737,613 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="44" transcription="" points="691,491 701,491 702,423 692,424 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="45" transcription="" points="569,419 758,418 758,427 571,426 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="46" transcription="" points="824,482 759,420 758,427 818,488 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="47" transcription="" points="817,500 824,499 824,482 817,484 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="48" transcription="" points="773,491 774,484 822,485 824,492 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="49" transcription="" points="796,460 788,458 788,484 798,484 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="50" transcription="" points="777,428 783,431 773,442 769,439 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="51" transcription="" points="1209,776 1218,776 1218,959 1209,959 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="52" transcription="" points="890,690 1044,689 1044,696 891,697 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="53" transcription="" points="977,772 979,697 970,696 972,773 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="54" transcription="" points="814,766 973,765 975,773 813,774 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="55" transcription="" points="929,957 919,957 921,773 928,772 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="56" transcription="" points="808,695 814,696 813,778 807,778 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="57" transcription="" points="807,691 833,692 833,698 808,698 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="58" transcription="" points="814,677 826,676 824,698 818,698 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="59" transcription="" points="806,837 814,836 814,925 806,924 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="60" transcription="" points="1181,610 1202,611 1207,618 1182,618 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="61" transcription="" points="1277,543 1285,543 1283,433 1276,432 " />
+<ns0:polygon class="Window" fill="#f60f0f" id="62" transcription="" points="1289,989 1436,988 1434,954 1286,954 " />
+<ns0:polygon class="Window" fill="#f60f0f" id="63" transcription="" points="1105,992 1170,992 1170,956 1105,956 " />
+<ns0:polygon class="Window" fill="#f60f0f" id="64" transcription="" points="1090,1054 1052,1052 1052,1120 1089,1120 " />
+<ns0:polygon class="Window" fill="#f60f0f" id="65" transcription="" points="911,1395 909,1423 959,1422 958,1394 " />
+<ns0:polygon class="Parking" fill="#8BBA00" id="66" transcription="" points="596,1399 596,1418 791,1418 791,1397 " />
+<ns0:polygon class="Door" fill="#008E8E" id="67" transcription="" points="633,956 537,956 537,1030 559,1032 595,1027 626,994 " />
+<ns0:polygon class="Window" fill="#f60f0f" id="68" transcription="" points="571,736 535,737 535,637 573,637 " />
+<ns0:polygon class="Window" fill="#f60f0f" id="69" transcription="" points="536,492 572,492 572,557 535,557 " />
+<ns0:polygon class="Window" fill="#f60f0f" id="70" transcription="" points="728,145 728,181 826,184 826,147 " />
+<ns0:polygon class="Window" fill="#f60f0f" id="71" transcription="" points="1144,251 1180,250 1181,348 1144,349 " />
+<ns0:polygon class="Door" fill="#008E8E" id="72" transcription="" points="1251,500 1250,400 1186,401 1181,436 1192,471 1220,497 " />
+<ns0:polygon class="Window" fill="#f60f0f" id="73" transcription="" points="1431,402 1431,437 1581,436 1579,402 " />
+<ns0:polygon class="Window" fill="#f60f0f" id="74" transcription="" points="1657,664 1692,663 1691,728 1654,728 " />
+<ns0:polygon class="Door" fill="#008E8E" id="75" transcription="" points="1630,778 1631,881 1554,880 1553,851 1558,820 1595,782 " />
+<ns0:polygon class="Door" fill="#008E8E" id="76" transcription="" points="977,890 979,980 1045,982 1047,957 1041,916 1009,892 " />
+<ns0:polygon class="Door" fill="#008E8E" id="77" transcription="" points="777,784 808,839 811,776 793,776 " />
+<ns0:polygon class="Door" fill="#008E8E" id="78" transcription="" points="973,619 896,620 894,691 949,678 967,651 " />
+<ns0:polygon class="Door" fill="#008E8E" id="79" transcription="" points="753,612 820,613 822,674 788,675 765,652 " />
+<ns0:polygon class="Door" fill="#008E8E" id="80" transcription="" points="1181,548 1184,618 1120,618 1121,591 1142,560 " />
+<ns0:polygon class="Door" fill="#008E8E" id="81" transcription="" points="966,456 898,459 897,394 931,396 956,422 " />
+<ns0:polygon class="Door" fill="#008E8E" id="82" transcription="" points="736,386 778,431 826,392 818,380 780,364 753,371 " />
+<ns0:polygon class="Door" fill="#008E8E" id="83" transcription="" points="757,497 821,494 819,560 788,554 758,522 " />
+<ns0:polygon class="Room" fill="#097bb9" id="84" transcription="" points="572,183 574,416 758,418 774,434 843,361 843,268 897,267 894,180 " />
+<ns0:polygon class="Room" fill="#097bb9" id="85" transcription="" points="1144,183 907,184 906,278 856,280 853,366 903,367 905,458 998,458 998,423 1145,421 " />
+<ns0:polygon class="Room" fill="#097bb9" id="86" transcription="" points="1009.5,435 1008.5,470 954.5,469 955.5,610 1199.5,608 1274.5,538 1274.5,435 " />
+<ns0:polygon class="Room" fill="#097bb9" id="87" transcription="" points="815,775 813,955 917,954 919,775 " />
+<ns0:polygon class="Room" fill="#097bb9" id="88" transcription="" points="574.5,623.5 570.5,920.5 804.5,920.5 805.5,688.5 817.5,686.5 814.5,613.5 744.5,610.5 743.5,622.5 " />
+<ns0:polygon class="Room" fill="#097bb9" id="89" transcription="" points="576,432 572,612 732,611 736,566 740,568 743,599 814,599 815,494 769,493 770,481 783,482 786,457 757,429 704,429 704,490 688,494 686,430 " />
+<ns0:polygon class="Door" fill="#008E8E" id="90" transcription="" points="829,761 828,694 893,695 887,728 863,750 " />
+<ns0:polygon class="Room" fill="#097bb9" id="91" transcription="" points="846,377 780,438 826,485 826,690 889,692 893,608 943,605 943,539 943,469 897,470 894,379 " />
+<ns0:polygon class="Room" fill="#097bb9" id="92" transcription="" points="967.5,699 815,698 814.5,763 966.5,765 " />
+<ns0:polygon class="Room" fill="#097bb9" id="93" transcription="" points="978,700 977,775 929,775 931,956 1207,954 1208,699 " />
+<ns0:polygon class="Room" fill="#097bb9" id="95" transcription="" points="1062,985 1062,1397 556,1394 558,938 794,942 795,982 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="96" transcription="" points="274,914 297,914 298,939 272,939 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="97" transcription="" points="273,1304 297,1305 296,1328 273,1328 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="98" transcription="" points="1662,963 1687,963 1686,987 1664,987 " />
+<ns0:polygon class="Wall" fill="#AFD8F8" id="99" transcription="" points="1278,534 1201,608 1212,620 1287,546 " />
+<ns0:polygon class="Room" fill="#097bb9" id="100" transcription="" points="904,617 1204,617 1204,693 904,693 " />
+<ns0:polygon class="Room" fill="#097bb9" id="101" transcription="" points="1288,435 1286,550 1218,619 1220,957 1501,955 1501,850 1658,849 1658,435 " />
+<ns0:polygon class="Separation" fill="#D64646" id="102" transcription="" points="1205,619 1221,619 1221,777 1205,777 " />
+<ns0:polygon class="Separation" fill="#D64646" id="103" transcription="" points="1048,687 1213,687 1213,700 1048,700 " />
+<ns0:relation type="incident" objects="27,69" />
+<ns0:relation type="incident" objects="69,26" />
+<ns0:relation type="incident" objects="26,68" />
+<ns0:relation type="incident" objects="21,68" />
+<ns0:relation type="incident" objects="21,22" />
+<ns0:relation type="incident" objects="22,23" />
+<ns0:relation type="incident" objects="23,21" />
+<ns0:relation type="incident" objects="22,67" />
+<ns0:relation type="incident" objects="20,67" />
+<ns0:relation type="incident" objects="20,19" />
+<ns0:relation type="incident" objects="19,66" />
+<ns0:relation type="incident" objects="66,18" />
+<ns0:relation type="incident" objects="18,65" />
+<ns0:relation type="incident" objects="65,17" />
+<ns0:relation type="incident" objects="17,16" />
+<ns0:relation type="incident" objects="16,64" />
+<ns0:relation type="incident" objects="64,14" />
+<ns0:relation type="incident" objects="14,13" />
+<ns0:relation type="incident" objects="13,63" />
+<ns0:relation type="incident" objects="63,12" />
+<ns0:relation type="incident" objects="12,62" />
+<ns0:relation type="incident" objects="62,11" />
+<ns0:relation type="incident" objects="11,10" />
+<ns0:relation type="incident" objects="10,9" />
+<ns0:relation type="incident" objects="9,75" />
+<ns0:relation type="incident" objects="75,8" />
+<ns0:relation type="incident" objects="8,7" />
+<ns0:relation type="incident" objects="7,74" />
+<ns0:relation type="incident" objects="74,6" />
+<ns0:relation type="incident" objects="6,5" />
+<ns0:relation type="incident" objects="5,73" />
+<ns0:relation type="incident" objects="1,73" />
+<ns0:relation type="incident" objects="1,72" />
+<ns0:relation type="incident" objects="72,2" />
+<ns0:relation type="incident" objects="2,3" />
+<ns0:relation type="incident" objects="3,71" />
+<ns0:relation type="incident" objects="71,4" />
+<ns0:relation type="incident" objects="4,0" />
+<ns0:relation type="incident" objects="0,70" />
+<ns0:relation type="incident" objects="70,28" />
+<ns0:relation type="incident" objects="28,27" />
+<ns0:relation type="incident" objects="0,29" />
+<ns0:relation type="incident" objects="29,30" />
+<ns0:relation type="incident" objects="30,31" />
+<ns0:relation type="incident" objects="31,32" />
+<ns0:relation type="incident" objects="32,34" />
+<ns0:relation type="incident" objects="34,81" />
+<ns0:relation type="incident" objects="81,37" />
+<ns0:relation type="incident" objects="37,36" />
+<ns0:relation type="incident" objects="36,35" />
+<ns0:relation type="incident" objects="35,2" />
+<ns0:relation type="incident" objects="3,35" />
+<ns0:relation type="incident" objects="32,33" />
+<ns0:relation type="incident" objects="33,31" />
+<ns0:relation type="incident" objects="33,82" />
+<ns0:relation type="incident" objects="82,50" />
+<ns0:relation type="incident" objects="50,46" />
+<ns0:relation type="incident" objects="46,45" />
+<ns0:relation type="incident" objects="45,44" />
+<ns0:relation type="incident" objects="45,27" />
+<ns0:relation type="incident" objects="49,46" />
+<ns0:relation type="incident" objects="46,47" />
+<ns0:relation type="incident" objects="47,48" />
+<ns0:relation type="incident" objects="48,49" />
+<ns0:relation type="incident" objects="47,83" />
+<ns0:relation type="incident" objects="40,83" />
+<ns0:relation type="incident" objects="40,42" />
+<ns0:relation type="incident" objects="42,41" />
+<ns0:relation type="incident" objects="41,43" />
+<ns0:relation type="incident" objects="43,26" />
+<ns0:relation type="incident" objects="40,79" />
+<ns0:relation type="incident" objects="58,79" />
+<ns0:relation type="incident" objects="58,57" />
+<ns0:relation type="incident" objects="57,90" />
+<ns0:relation type="incident" objects="90,52" />
+<ns0:relation type="incident" objects="52,53" />
+<ns0:relation type="incident" objects="53,54" />
+<ns0:relation type="incident" objects="54,56" />
+<ns0:relation type="incident" objects="56,57" />
+<ns0:relation type="incident" objects="52,78" />
+<ns0:relation type="incident" objects="78,39" />
+<ns0:relation type="incident" objects="39,80" />
+<ns0:relation type="incident" objects="80,60" />
+<ns0:relation type="incident" objects="39,38" />
+<ns0:relation type="incident" objects="60,99" />
+<ns0:relation type="incident" objects="99,61" />
+<ns0:relation type="incident" objects="61,1" />
+<ns0:relation type="incident" objects="38,37" />
+<ns0:relation type="incident" objects="56,77" />
+<ns0:relation type="incident" objects="77,59" />
+<ns0:relation type="incident" objects="59,23" />
+<ns0:relation type="incident" objects="23,24" />
+<ns0:relation type="incident" objects="24,25" />
+<ns0:relation type="incident" objects="25,76" />
+<ns0:relation type="incident" objects="76,15" />
+<ns0:relation type="incident" objects="15,13" />
+<ns0:relation type="incident" objects="12,51" />
+<ns0:relation type="incident" objects="54,55" />
+<ns0:relation type="incident" objects="55,25" />
+<ns0:relation type="neighbour" objects="84,91" />
+<ns0:relation type="neighbour" objects="91,85" />
+<ns0:relation type="neighbour" objects="85,84" />
+<ns0:relation type="neighbour" objects="84,89" />
+<ns0:relation type="neighbour" objects="89,91" />
+<ns0:relation type="neighbour" objects="91,86" />
+<ns0:relation type="neighbour" objects="92,93" />
+<ns0:relation type="neighbour" objects="93,87" />
+<ns0:relation type="neighbour" objects="87,88" />
+<ns0:relation type="neighbour" objects="88,92" />
+<ns0:relation type="neighbour" objects="92,91" />
+<ns0:relation type="neighbour" objects="91,88" />
+<ns0:relation type="neighbour" objects="88,89" />
+<ns0:relation type="neighbour" objects="88,95" />
+<ns0:relation type="neighbour" objects="95,87" />
+<ns0:relation type="neighbour" objects="86,85" />
+<ns0:relation type="access" objects="91,82,84" />
+<ns0:relation type="access" objects="91,81,85" />
+<ns0:relation type="access" objects="91,83,89" />
+<ns0:relation type="access" objects="91,79,88" />
+<ns0:relation type="access" objects="91,90,92" />
+<ns0:relation type="access" objects="86,72,86" />
+<ns0:relation type="access" objects="87,77,88" />
+<ns0:relation type="access" objects="95,76,93" />
+<ns0:relation type="access" objects="95,67,95" />
+<ns0:relation type="incident" objects="103,52" />
+<ns0:relation type="incident" objects="103,102" />
+<ns0:relation type="incident" objects="102,51" />
+<ns0:relation type="incident" objects="102,99" />
+<ns0:relation type="incident" objects="102,60" />
+<ns0:relation type="access" objects="95,76,93" />
+<ns0:relation type="neighbour" objects="101,93" />
+<ns0:relation type="neighbour" objects="101,100" />
+<ns0:relation type="neighbour" objects="100,93" />
+<ns0:relation type="neighbour" objects="93,95" />
+<ns0:relation type="neighbour" objects="93,87" />
+<ns0:relation type="neighbour" objects="93,92" />
+<ns0:relation type="neighbour" objects="100,86" />
+<ns0:relation type="neighbour" objects="86,101" />
+<ns0:relation type="neighbour" objects="100,91" />
+<ns0:relation type="neighbour" objects="100,92" />
+<ns0:relation type="access" objects="91,78,100" />
+<ns0:relation type="access" objects="91,82,84" />
+<ns0:relation type="outerP" objects="28,70,0,4,71,3,2,72,1,73,5,6,74,7,8,75,9,10,11,62,12,63,13,14,64,16,17,65,18,66,19,20,67,22,21,68,26,69,27" />
+<ns0:relation type="surround" objects="28,70,0,29,30,31,33,82,50,46,45,27,28,84" />
+<ns0:relation type="surround" objects="0,4,71,3,2,35,36,37,81,34,32,31,30,29,0,85" />
+<ns0:relation type="surround" objects="45,46,47,83,40,42,41,43,26,69,27,45,89" />
+<ns0:relation type="surround" objects="43,41,42,40,79,58,57,56,77,59,23,21,68,26,43,88" />
+<ns0:relation type="surround" objects="23,24,25,76,15,14,64,16,17,65,18,66,19,20,67,22,23,95" />
+<ns0:relation type="surround" objects="54,55,25,24,59,77,56,54,87" />
+<ns0:relation type="surround" objects="57,90,52,53,54,56,57,92" />
+<ns0:relation type="surround" objects="50,82,33,32,34,81,37,38,39,78,52,90,58,79,40,83,47,46,50,91" />
+<ns0:relation type="surround" objects="37,36,35,2,72,1,61,99,60,80,39,38,37,86" />
+<ns0:relation type="surround" objects="1,73,5,6,74,7,8,75,9,10,11,62,12,51,102,99,61,1,101" />
+<ns0:relation type="surround" objects="39,80,60,102,103,52,78,39,100" />
+<ns0:relation type="surround" objects="52,103,102,51,12,63,13,15,76,25,55,54,53,52,93" />
+<ns0:relation type="access" objects="93,102,101" />
+<ns0:relation type="access" objects="100,102,101" />
+<ns0:relation type="access" objects="93,103,100" />
+<ns0:relation type="access" objects="100,80,86" />
+<metadata><dimensions><width>2550</width><height>3300</height></dimensions></metadata></ns0:svg>
